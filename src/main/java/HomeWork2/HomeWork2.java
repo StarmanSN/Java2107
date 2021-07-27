@@ -11,7 +11,7 @@ public class HomeWork2 {
         boolean result2 = isFalse(-12);
         System.out.println(result2);
 
-        someMethod("строка", 3);
+        someMethod("строка", 5);
 
         boolean result3 = isLeap(2021);
         System.out.println(result3);
@@ -41,12 +41,9 @@ public class HomeWork2 {
             return false;
         }
     }
-    /* Здесь я не уверен, мне хотелось добавить 3-ю переменную 'c' и в условии указать (b <= c),
- тогда условие задачи будет выполняться (указанное количество раз), но в задаче сказано,
- что добавить число, т.е одно... */
 
         public static void someMethod(String a, int b){
-            for (b = 1; b <= 3; b++) {
+            for (int i = 1; i <= b; i++) {
                 System.out.println(a);
             }
         }
