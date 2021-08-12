@@ -56,5 +56,4 @@ public class ArraysApp {
         Arrays.fill(result, valueToFill);
         return result;
     }
-
 }
