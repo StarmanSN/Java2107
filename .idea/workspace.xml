@@ -84,7 +84,7 @@
       <module name="Java2107.git" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson4.*" />
+          <option name="PATTERN" value="Lesson2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
