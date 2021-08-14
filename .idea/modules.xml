@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<<<< Temporary merge branch 1
       <module fileurl="file://$PROJECT_DIR$/Java2107.git.iml" filepath="$PROJECT_DIR$/Java2107.git.iml" />
-=========
-      <module fileurl="file://$PROJECT_DIR$/.idea/Java2107.git.iml" filepath="$PROJECT_DIR$/.idea/Java2107.git.iml" />
->>>>>>>>> Temporary merge branch 2
     </modules>
   </component>
 </project>
