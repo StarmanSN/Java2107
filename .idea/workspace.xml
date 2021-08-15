@@ -4,23 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa5117d0-c4b6-48e4-a071-0f221d130c80" name="Default Changelist" comment="Lesson 4">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson6/AnotherClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson6/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson6/DummyTransport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson6/HomeWork3Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson6/MiniBus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson6/OopDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson6/Taxi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson6/Transport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson6/TransportApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson6/Trolley.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="fa5117d0-c4b6-48e4-a071-0f221d130c80" name="Default Changelist" comment="Lesson6">
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork6/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork6/AnimalApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork6/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork6/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson5/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson5/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/HomeWork5/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/HomeWork5/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Lesson5/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson5/Car.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +57,33 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.TransportApp">
+  <component name="RunManager" selected="Application.AnimalApp">
+    <configuration name="AnimalApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork6.AnimalApp" />
+      <module name="Java2107.git" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CycleApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson2.CycleApp" />
+      <module name="Java2107.git" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeWork5.Employee" />
       <module name="Java2107.git" />
@@ -94,19 +110,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson2.SwitchApp" />
-      <module name="Java2107.git" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TransportApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson6.TransportApp" />
       <module name="Java2107.git" />
@@ -120,26 +123,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson2.WhileApp" />
-      <module name="Java2107.git" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AnimalApp" />
+        <item itemvalue="Application.OopDemo" />
+        <item itemvalue="Application.CycleApp" />
         <item itemvalue="Application.TransportApp" />
         <item itemvalue="Application.Employee" />
-        <item itemvalue="Application.OopDemo" />
-        <item itemvalue="Application.WhileApp" />
-        <item itemvalue="Application.SwitchApp" />
       </list>
     </recent_temporary>
   </component>
