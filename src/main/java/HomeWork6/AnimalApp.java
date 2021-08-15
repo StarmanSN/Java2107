@@ -38,6 +38,7 @@ public class AnimalApp {
         System.out.println(cat1.name + " пробежал " + cat1.runDistance(cat1.getRun()) + " метров, " + cat1.name + " не умеет плавать");
         System.out.println();
 
+        // Пятый участник
         Dog dog2 = new Dog();
         dog2.setName("Джерри");
         dog2.setRun(125);
