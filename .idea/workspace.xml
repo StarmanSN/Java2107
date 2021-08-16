@@ -4,23 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa5117d0-c4b6-48e4-a071-0f221d130c80" name="Default Changelist" comment="Lesson 4">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson6/AnotherClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson6/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson6/DummyTransport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson6/HomeWork3Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson6/MiniBus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson6/OopDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson6/Taxi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson6/Transport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson6/TransportApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson6/Trolley.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="fa5117d0-c4b6-48e4-a071-0f221d130c80" name="Default Changelist" comment="Homework6">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson6/PolyApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson6/RiverShip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson6/WaterTransport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson7/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson7/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson7/Plate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson7/Storage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson7/StringApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson5/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson5/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/HomeWork5/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/HomeWork5/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Lesson5/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson5/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson6/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson6/Bus.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,13 +61,26 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.TransportApp">
-    <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork5.Employee" />
+  <component name="RunManager" selected="Application.PolyApp">
+    <configuration name="AnimalApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork6.AnimalApp" />
       <module name="Java2107.git" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork5.*" />
+          <option name="PATTERN" value="HomeWork6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson7.App" />
+      <module name="Java2107.git" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,21 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson2.SwitchApp" />
-      <module name="Java2107.git" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TransportApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson6.TransportApp" />
+    <configuration name="PolyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson6.PolyApp" />
       <module name="Java2107.git" />
       <extension name="coverage">
         <pattern>
@@ -120,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson2.WhileApp" />
+    <configuration name="StringApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson7.StringApp" />
       <module name="Java2107.git" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson2.*" />
+          <option name="PATTERN" value="Lesson7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TransportApp" />
-        <item itemvalue="Application.Employee" />
+        <item itemvalue="Application.PolyApp" />
+        <item itemvalue="Application.StringApp" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.AnimalApp" />
         <item itemvalue="Application.OopDemo" />
-        <item itemvalue="Application.WhileApp" />
-        <item itemvalue="Application.SwitchApp" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +223,21 @@
       <option name="project" value="LOCAL" />
       <updated>1628618415498</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Homework6">
+      <created>1629026500509</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1629026500509</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Homework6">
+      <created>1629026951775</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1629026951775</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -264,6 +272,7 @@
     <MESSAGE value="Lesson 4" />
     <MESSAGE value="Homework4" />
     <MESSAGE value="Lesson5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson5" />
+    <MESSAGE value="Homework6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework6" />
   </component>
 </project>

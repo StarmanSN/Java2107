@@ -14,6 +14,14 @@ public class Bus extends Transport {
     public Bus() {
     }
 
+    public String getModel() {
+        return model;
+    }
+
+    public void setModel(String model) {
+        this.model = model;
+    }
+
     @Override
     public int stopTimeSec() {
         return 4;
