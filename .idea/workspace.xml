@@ -4,17 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa5117d0-c4b6-48e4-a071-0f221d130c80" name="Default Changelist" comment="Homework6">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson6/PolyApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson6/RiverShip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson6/WaterTransport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson7/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson7/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson7/Plate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson7/Storage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson7/StringApp.java" afterDir="false" />
+    <list default="true" id="fa5117d0-c4b6-48e4-a071-0f221d130c80" name="Default Changelist" comment="Lesson7">
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork7/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork7/FeedTheCat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork7/Plate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson6/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson6/Bus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson6/Bus.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson6/Bus.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +27,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Lesson6" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,7 +57,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.PolyApp">
+  <component name="RunManager" selected="Application.FeedTheCat">
     <configuration name="AnimalApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeWork6.AnimalApp" />
       <module name="Java2107.git" />
@@ -88,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OopDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson6.OopDemo" />
+    <configuration name="CycleApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson2.CycleApp" />
       <module name="Java2107.git" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson6.*" />
+          <option name="PATTERN" value="Lesson2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PolyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson6.PolyApp" />
+    <configuration name="FeedTheCat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork7.FeedTheCat" />
       <module name="Java2107.git" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson6.*" />
+          <option name="PATTERN" value="HomeWork7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson7.StringApp" />
+    <configuration name="HomeWork2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork2.HomeWork2" />
       <module name="Java2107.git" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson7.*" />
+          <option name="PATTERN" value="HomeWork2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PolyApp" />
-        <item itemvalue="Application.StringApp" />
-        <item itemvalue="Application.App" />
+        <item itemvalue="Application.FeedTheCat" />
+        <item itemvalue="Application.CycleApp" />
         <item itemvalue="Application.AnimalApp" />
-        <item itemvalue="Application.OopDemo" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.HomeWork2" />
       </list>
     </recent_temporary>
   </component>
