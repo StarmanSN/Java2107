@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa5117d0-c4b6-48e4-a071-0f221d130c80" name="Default Changelist" comment="Lesson7">
-      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork7/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork7/FeedTheCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork7/Plate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson8/CounterApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson8/WindowApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Lesson6/Bus.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson6/Bus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson7/StringApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson7/StringApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Lesson6" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -57,7 +55,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.FeedTheCat">
+  <component name="RunManager" selected="Application.CounterApp">
     <configuration name="AnimalApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeWork6.AnimalApp" />
       <module name="Java2107.git" />
@@ -71,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson7.App" />
+    <configuration name="CounterApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson8.CounterApp" />
       <module name="Java2107.git" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson7.*" />
+          <option name="PATTERN" value="Lesson8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeWork2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork2.HomeWork2" />
+    <configuration name="WindowApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson8.WindowApp" />
       <module name="Java2107.git" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork2.*" />
+          <option name="PATTERN" value="Lesson8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CounterApp" />
+        <item itemvalue="Application.WindowApp" />
         <item itemvalue="Application.FeedTheCat" />
         <item itemvalue="Application.CycleApp" />
         <item itemvalue="Application.AnimalApp" />
-        <item itemvalue="Application.App" />
-        <item itemvalue="Application.HomeWork2" />
       </list>
     </recent_temporary>
   </component>

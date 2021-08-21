@@ -34,7 +34,8 @@ public class StringApp {
         String s3 = "A" + 1 + 2;
         System.out.println(s2 + " " + s3);
 
-        StringBuilder sb = new StringBuilder();
+        StringBuilder sb = new StringBuilder(100);
+        sb.ensureCapacity(200);
         StringBuffer stringBuffer = new StringBuffer();
 
         sb.append("s1");
